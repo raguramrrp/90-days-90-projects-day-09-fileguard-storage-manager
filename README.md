@@ -310,8 +310,7 @@ Status: PASS (38/38 Tests Passed — 100% Pass Rate)
 
 ---
 
-## 💼 Resume Keywords & Technical Competencies
-`Python 3.14` • `Tkinter / ttk` • `SQLite 3 (WAL Mode)` • `SHA-256 Chunked Cryptography` • `Multi-Threading & Queue Management` • `Disaster Recovery Engineering` • `Pytest Fixtures & Unit Testing` • `Perceptual Difference Hashing (dHash)` • `Hamming Distance` • `Windows Filesystem APIs` • `System Safety & Atomic Rollbacks` • `Standalone HTML & CSV Generation` • `PyInstaller Desktop Packaging`
+
 
 ---
 
