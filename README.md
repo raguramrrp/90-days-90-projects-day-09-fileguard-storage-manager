@@ -311,4 +311,4 @@ Status: PASS (38/38 Tests Passed — 100% Pass Rate)
 ---
 
 ## 📄 License & Attribution
-Distributed under the **MIT License**. Created by **Raguram Ram P** as part of the **90 Days – 90 Projects Challenge**.
+Distributed under the **MIT License**. Created by **Ragur Ram P** as part of the **90 Days – 90 Projects Challenge**.
